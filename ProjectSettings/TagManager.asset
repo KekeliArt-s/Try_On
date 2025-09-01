@@ -9,6 +9,7 @@ TagManager:
   - simple
   - monocle
   - stars
+  - Class
   layers:
   - Default
   - TransparentFX
